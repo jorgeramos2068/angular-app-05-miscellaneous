@@ -1,4 +1,4 @@
-# Miscelaneos
+# Miscellaneous
 
 Simple app that shows multiple examples of Angular functionalities.
 
